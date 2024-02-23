@@ -14,7 +14,8 @@ function Common.opt_require(path)
 end
 
 Common.addons = {
-	"awf-oarc"
+	"awf-oarc",
+    "tier2-hell"
 }
 
 return Common
